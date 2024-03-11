@@ -1,0 +1,257 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EmergeAssets",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BundleGetter",
+        "printedName": "BundleGetter",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "get",
+            "printedName": "get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bundle",
+                "printedName": "Foundation.Bundle",
+                "usr": "c:objc(cs)NSBundle"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12EmergeAssets12BundleGetterC3getSo8NSBundleCyFZ",
+            "mangledName": "$s12EmergeAssets12BundleGetterC3getSo8NSBundleCyFZ",
+            "moduleName": "EmergeAssets",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12EmergeAssets12BundleGetterC",
+        "mangledName": "$s12EmergeAssets12BundleGetterC",
+        "moduleName": "EmergeAssets",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EmergeAssets"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EmergeAssets"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "EmergeAssets"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "EmergeAssets"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 809,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 949,
+      "length": 4,
+      "value": "\"10\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1090,
+      "length": 4,
+      "value": "\"11\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1231,
+      "length": 4,
+      "value": "\"12\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1372,
+      "length": 4,
+      "value": "\"13\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1513,
+      "length": 4,
+      "value": "\"14\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1654,
+      "length": 4,
+      "value": "\"15\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1795,
+      "length": 4,
+      "value": "\"16\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1936,
+      "length": 4,
+      "value": "\"17\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2077,
+      "length": 4,
+      "value": "\"18\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2218,
+      "length": 4,
+      "value": "\"19\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2357,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2497,
+      "length": 4,
+      "value": "\"20\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2638,
+      "length": 4,
+      "value": "\"21\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2779,
+      "length": 4,
+      "value": "\"22\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2920,
+      "length": 4,
+      "value": "\"23\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3061,
+      "length": 4,
+      "value": "\"24\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3200,
+      "length": 3,
+      "value": "\"3\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3338,
+      "length": 3,
+      "value": "\"4\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3476,
+      "length": 3,
+      "value": "\"5\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3614,
+      "length": 3,
+      "value": "\"6\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3752,
+      "length": 3,
+      "value": "\"7\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3890,
+      "length": 3,
+      "value": "\"8\""
+    },
+    {
+      "filePath": "\/Users\/jacob\/Library\/Developer\/Xcode\/DerivedData\/EmergeAssets-fuszllvjudzokhdzeyiixzajigdl\/Build\/Intermediates.noindex\/EmergeAssets.build\/Release-iphoneos\/EmergeAssets.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4028,
+      "length": 3,
+      "value": "\"9\""
+    }
+  ]
+}

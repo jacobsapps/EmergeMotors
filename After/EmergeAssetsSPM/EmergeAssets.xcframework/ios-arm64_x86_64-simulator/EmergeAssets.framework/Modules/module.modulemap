@@ -1,0 +1,11 @@
+framework module EmergeAssets {
+  umbrella header "EmergeAssets.h"
+  export *
+
+  module * { export * }
+}
+
+module EmergeAssets.Swift {
+  header "EmergeAssets-Swift.h"
+  requires objc
+}
