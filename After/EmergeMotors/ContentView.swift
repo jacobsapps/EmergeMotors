@@ -40,6 +40,9 @@ struct ContentView: View {
                     }
                 }
                 .padding()
+                
+                Text("Images from Unsplash")
+                    .frame(maxWidth: .infinity, alignment: .center)
             }
         }
     }

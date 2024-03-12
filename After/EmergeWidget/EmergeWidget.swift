@@ -46,6 +46,7 @@ struct EmergeWidget: Widget {
     var body: some WidgetConfiguration {
         StaticConfiguration(kind: kind, provider: Provider()) { car in
             EmergeWidgetCarView(car: car)
+                .containerBackground(.white, for: .widget)
         }
         .configurationDisplayName("Emerge Widget")
         .description("This is a car image widget.")
